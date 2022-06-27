@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#baijing{
+	background-color: #E4F7F8;
+	width: 800px;
+	margin: 100px auto;
+	border: solid 1px gray;
+	overflow: hidden;}
+.photo{
+	height: 100px;
+	width: 325px;
+	float: left;}
+.photo img{display: block;width: 100%;}
+#intro{
+	float: right;
+	width: 450px;
+	line-height: 2em;
+	font-size: 12px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}

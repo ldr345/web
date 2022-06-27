@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+table{
+	background-color: #9FE7E6;
+	clear: both;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.level{
+	clear: both;
+	zoom: 1;
+	margin: 20px 0 12px;
+	line-height: 20px;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: Microsoft YaHei,SimHei,Verdana;
+}
+.title-text{
+	color: #0F622F;
+	font-size: 18px;
+	font-weight: 400;
+}
+th,td{
+	text-align: center;
+	border-collapse: collapse;
+  	border-spacing: 0;
+}
+

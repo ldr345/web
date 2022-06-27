@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+span{color:#0E6047}
+.title-text {
+    float: left;
+    display: block;
+    padding: 0 8px 0 18px;
+    line-height: 24px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #000;
+	background: #fff;}
+.para {
+    font-size: 14px;
+    word-wrap: break-word;
+    color: #333;
+    margin-bottom: 15px;
+    text-indent: 2em;
+    line-height: 24px;
+    zoom: 1;
+}
+.pic img{
+	max-width:100%;
+}
